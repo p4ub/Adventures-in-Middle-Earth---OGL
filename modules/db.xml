@@ -22,28 +22,28 @@
 				<id-riddle>
 					<listlink type="windowreference">
 						<class>reference_skill</class>
-						<recordname>reference.skilldata.id-riddle@AME-5e New Skills</recordname>
+						<recordname>reference.skilldata.riddle@AME-5e New Skills</recordname>
 					</listlink>
 					<name type="string">Riddle</name>
 				</id-riddle>
 				<id-lore>
 					<listlink type="windowreference">
 						<class>reference_skill</class>
-						<recordname>reference.skilldata.id-lore@AME-5e New Skills</recordname>
+						<recordname>reference.skilldata.lore@AME-5e New Skills</recordname>
 					</listlink>
 					<name type="string">Lore</name>
 				</id-lore>
 				<id-shadowlore>
 					<listlink type="windowreference">
 						<class>reference_skill</class>
-						<recordname>reference.skilldata.id-shadowlore@AME-5e New Skills</recordname>
+						<recordname>reference.skilldata.shadowlore@AME-5e New Skills</recordname>
 					</listlink>
 					<name type="string">Shadow-lore</name>
 				</id-shadowlore>
 				<id-traditions>
 					<listlink type="windowreference">
 						<class>reference_skill</class>
-						<recordname>reference.skilldata.id-traditions@AME-5e New Skills</recordname>
+						<recordname>reference.skilldata.traditions@AME-5e New Skills</recordname>
 					</listlink>
 					<name type="string">Traditions</name>
 				</id-traditions>
@@ -71,7 +71,7 @@
 					<locked type="number">1</locked>
 					<name type="string">Shadow-lore</name>
 					<text type="formattedtext">
-						<p>A dark branch of knowledge, Intelligence (Shadow-lore) checks allow you to share what you’ve learned about the ways of the Enemy and the various creatures that stalk through the shadows of Middle-earth. Where Lore deals with the past, Shadow-lore deals with the present and the rising threat of the Enemy’s many minions.</p>
+						<p>A dark branch of knowledge, Intelligence (Shadow-lore) checks allow you to share what you have learned about the ways of the Enemy and the various creatures that stalk through the shadows of Middle-earth. Where Lore deals with the past, Shadow-lore deals with the present and the rising threat of the Enemy's many minions.</p>
 					</text>
 				</shadowlore>
 				<traditions>
