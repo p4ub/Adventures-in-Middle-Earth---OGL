@@ -19,34 +19,160 @@
 		<reference_skill>
 			<name type="string">Skills</name>
 			<index>
-				<id-riddle>
+				<riddle>
 					<listlink type="windowreference">
 						<class>reference_skill</class>
 						<recordname>reference.skilldata.riddle@AiME 5e Player's Guide</recordname>
 					</listlink>
 					<name type="string">Riddle</name>
-				</id-riddle>
-				<id-lore>
+				</riddle>
+				<lore>
 					<listlink type="windowreference">
 						<class>reference_skill</class>
 						<recordname>reference.skilldata.lore@AiME 5e Player's Guide</recordname>
 					</listlink>
 					<name type="string">Lore</name>
-				</id-lore>
-				<id-shadowlore>
+				</lore>
+				<shadowlore>
 					<listlink type="windowreference">
 						<class>reference_skill</class>
 						<recordname>reference.skilldata.shadowlore@AiME 5e Player's Guide</recordname>
 					</listlink>
 					<name type="string">Shadow-lore</name>
-				</id-shadowlore>
-				<id-traditions>
+				</shadowlore>
+				<traditions>
 					<listlink type="windowreference">
 						<class>reference_skill</class>
 						<recordname>reference.skilldata.traditions@AiME 5e Player's Guide</recordname>
 					</listlink>
 					<name type="string">Traditions</name>
-				</id-traditions>
+				</traditions>
+				<athletics>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.athletics@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Athletics</name>
+				</athletics>
+				<acrobatics>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.acrobatics@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Acrobatics</name>
+				</acrobatics>
+				<arcana>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.arcana@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Arcana</name>
+				</arcana>
+				<animalhandling>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.animalhandling@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Animal handling</name>
+				</animalhandling>
+				<sleightofhand>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.sleightofhand@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Sleight-of-hand</name>
+				</sleightofhand>
+				<stealth>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.stealth@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Stealth</name>
+				</stealth>
+				<survival>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.survival@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Survival</name>
+				</survival>
+				<history>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.history@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">History</name>
+				</history>
+				<investigation>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.investigation@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Investigation</name>
+				</investigation>
+				<insight>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.insight@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Insight</name>
+				</insight>
+				<intimidation>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.intimidation@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Intimidation</name>
+				</intimidation>
+				<nature>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.nature@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Nature</name>
+				</nature>
+				<religion>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.religion@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Religion</name>
+				</religion>
+				<medicine>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.medicine@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Medicine</name>
+				</medicine>
+				<perception>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.perception@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Perception</name>
+				</perception>
+				<performance>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.performance@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Performance</name>
+				</performance>
+				<persuasion>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.persuasion@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Persuasion</name>
+				</persuasion>
+				<deception>
+					<listlink type="windowreference">
+						<class>reference_skill</class>
+						<recordname>reference.skilldata.deception@AiME 5e Player's Guide</recordname>
+					</listlink>
+					<name type="string">Deception</name>
+				</deception>
 			</index>
 		</reference_skill>
 	</lists>
@@ -56,6 +182,7 @@
 				<riddle>
 					<locked type="number">1</locked>
 					<name type="string">Riddle</name>
+					<stat type="string">Intelligence</stat>
 					<text type="formattedtext">
 						<p>An accepted custom among many creatures, speaking in riddles is usually allowed among strangers meeting for the first time who want to speak guardedly. Use Intelligence (Riddle) checks to discuss a subject while concealing part of what you know, such as when explaining something about yourself without revealing your true identity. This skill is also used to gain helpful insight into spoken or written riddles.</p>
 					</text>
@@ -63,6 +190,7 @@
 				<lore>
 					<locked type="number">1</locked>
 					<name type="string">Lore</name>
+					<stat type="string">Intelligence</stat>
 					<text type="formattedtext">
 						<p>Your Intelligence (Lore) check measures your ability to recall unusual and obscure information about old legends, ancient war gear, bits of song, rare artefacts, and the reading of runes. Lore replaces the Arcana skill; magic is an imprecise term, for folk use it to describe both the blessings of the Elves and the deceits of the Enemy.</p>
 					</text>
@@ -70,6 +198,7 @@
 				<shadowlore>
 					<locked type="number">1</locked>
 					<name type="string">Shadow-lore</name>
+					<stat type="string">Intelligence</stat>
 					<text type="formattedtext">
 						<p>A dark branch of knowledge, Intelligence (Shadow-lore) checks allow you to share what you have learned about the ways of the Enemy and the various creatures that stalk through the shadows of Middle-earth. Where Lore deals with the past, Shadow-lore deals with the present and the rising threat of the Enemy's many minions.</p>
 					</text>
@@ -77,10 +206,119 @@
 				<traditions>
 					<locked type="number">1</locked>
 					<name type="string">Traditions</name>
+					<stat type="string">Intelligence</stat>
 					<text type="formattedtext">
 						<p>Your Intelligence (Traditions) check measures your ability to recall the proper courtesies and etiquette expected by the various Free Folk cultures, along with some of their stories about their people and their respective histories. An Intelligence (Traditions) ability check is used whenever you wish to gain an audience with someone of influence. Traditions also covers the knowledge of such religion as exists in Middle-earth.</p>
 					</text>
-				</traditions>
+				</traditions>				
+				<athletics>
+					<name type="string">Athletics</name>
+					<stat type="string">Strength</stat>
+					<text type="formattedtext">
+						<p>Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:</p><list><li>You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.</li><li>You try to jump an unusually long distance or pull off a stunt midjump.</li><li>You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.</li></list></text>
+				</athletics>
+				<acrobatics>
+					<name type="string">Acrobatics</name>
+					<stat type="string">Dexterity</stat>
+					<text type="formattedtext">
+						<p>Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The GM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.</p></text>
+				</acrobatics>
+				<sleightofhand>
+					<name type="string">Sleight of Hand</name>
+					<stat type="string">Dexterity</stat>
+					<text type="formattedtext">
+						<p>Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.</p></text>
+				</sleightofhand>
+				<stealth>
+					<name type="string">Stealth</name>
+					<stat type="string">Dexterity</stat>
+					<text type="formattedtext">
+						<p>Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.</p></text>
+				</stealth>
+				<arcana>
+					<name type="string">Arcana</name>
+					<stat type="string">Intelligence</stat>
+					<text type="formattedtext">
+						<p>Your Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.</p></text>
+				</arcana>
+				<history>
+					<name type="string">History</name>
+					<stat type="string">Intelligence</stat>
+					<text type="formattedtext">
+						<p>Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.</p></text>
+				</history>
+				<investigation>
+					<name type="string">Investigation</name>
+					<stat type="string">Intelligence</stat>
+					<text type="formattedtext">
+						<p>When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.</p></text>
+				</investigation>
+				<nature>
+					<name type="string">Nature</name>
+					<stat type="string">Intelligence</stat>
+					<text type="formattedtext">
+						<p>Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.</p></text>
+				</nature>
+				<religion>
+					<name type="string">Religion</name>
+					<stat type="string">Intelligence</stat>
+					<text type="formattedtext">
+						<p>Your Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.</p></text>
+				</religion>
+				<animalhandling>
+					<name type="string">Animal Handling</name>
+					<stat type="string">Wisdom</stat>
+					<text type="formattedtext">
+						<p>When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal's intentions, the GM might call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling) check to control your mount when you attempt a risky maneuver.</p></text>
+				</animalhandling>
+				<insight>
+					<name type="string">Insight</name>
+					<stat type="string">Wisdom</stat>
+					<text type="formattedtext">
+						<p>Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.</p></text>
+				</insight>
+				<medicine>
+					<name type="string">Medicine</name>
+					<stat type="string">Wisdom</stat>
+					<text type="formattedtext">
+						<p>A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.</p></text>
+				</medicine>
+				<perception>
+					<name type="string">Perception</name>
+					<stat type="string">Wisdom</stat>
+					<text type="formattedtext">
+						<p>Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.</p></text>
+				</perception>
+				<survival>
+					<name type="string">Survival</name>
+					<stat type="string">Wisdom</stat>
+					<text type="formattedtext">
+						<p>The GM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.</p></text>
+				</survival>
+				<deception>
+					<name type="string">Deception</name>
+					<stat type="string">Charisma</stat>
+					<text type="formattedtext">
+						<p>Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie.</p></text>
+				</deception>
+				<intimidation>
+					<name type="string">Intimidation</name>
+					<stat type="string">Charisma</stat>
+					<text type="formattedtext">
+						<p>When you attempt to influence someone through overt threats, hostile actions, and physical violence, the GM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.</p></text>
+				</intimidation>
+				<performance>
+					<name type="string">Performance</name>
+					<stat type="string">Charisma</stat>
+					<text type="formattedtext">
+						<p>Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.</p></text>
+				</performance>
+				<persuasion>
+					<name type="string">Persuasion</name>
+					<stat type="string">Charisma</stat>
+					<text type="formattedtext">
+						<p>When you attempt to influence someone or a group of people with tact, social graces, or good nature, the GM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.</p></text>
+				</persuasion>
 			</category>
 		</skilldata>
 	</reference>

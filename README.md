@@ -9,3 +9,6 @@ This is a fork of Collumbus https://github.com/Collumbus/Adventures-in-Middle-Ea
 
 20200207  - single quotes in new skills now display correctly
           - New skills description in module now link to description
+
+20200208  - Renamed new-skills module as player's guide to match layouts of other products
+          - Added SRD skills to skill list to help module be self-contained
