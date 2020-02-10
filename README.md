@@ -14,3 +14,5 @@ This is a fork of Collumbus https://github.com/Collumbus/Adventures-in-Middle-Ea
           - Added SRD skills to skill list to help module be self-contained
 
 20200209  - Added Warrior class features
+
+20200210  - Added Knight Archetype to Warrior class

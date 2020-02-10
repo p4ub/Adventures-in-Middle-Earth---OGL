@@ -2382,44 +2382,127 @@
 						<level type="number">17</level>
 						<text type="formattedtext"><p>Beginning at 13th level, you can re-roll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest. You can use this feature twice between long rests at 15th level, and three times between long rests starting at 17th level.</p></text>
 					</indomitable17>
-					<improvedcritical3>
-						<name type="string">Improved Critical</name>
+					<sworndefender3>
+						<name type="string">Sworn Defender</name>
 						<level type="number">3</level>
-						<text type="formattedtext"><p>Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.</p></text>
-						<specialization type="string">Champion</specialization>
-					</improvedcritical3>
-					<remarkableathlete7>
-						<name type="string">Remarkable Athlete</name>
+						<text type="formattedtext"><p>Upon choosing this archetype at 3rd level you gain the ability to nominate a Charge. At the end of a long rest you can name a person or place and swear mighty oaths to protect and defend it. This Charge remains until either it is killed, or you change your Charge following a long rest. While near your Charge, you gain temporary hit points equal to your Wisdom bonus plus your Warrior levels. Alternatively, your liege lord may assign you a task, in which case the completion of that quest becomes your Charge, and you lose the temporary hit points if, in the judgement of the Loremaster, you tarry or stray from your quest.</p><p>If your Charge is a place, it becomes a Sanctuary for you as long as it remains your Charge (see the Fellowship Phase chapter for more information on Sanctuaries).</p></text>
+						<specialization type="string">Knight</specialization>
+					</sworndefender3>
+					<marksofhonour3>
+						<name type="string">Marks of Honour</name>
+						<level type="number">3</level>
+						<text type="formattedtext"><p>Also at 3rd level, your faithful service is recognised with a mark of honour. You gain another mark at 7th, 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following marks.</p>
+						<p><b>Reward:</b>Gain a Cultural Heirloom from your liege-lord's culture. You may take this mark multiple times.</p>
+						<p><b>Inspiration:</b>You may draw Inspiration from your Charge. Once you have gained Inspiration from your Charge, you cannot do so again until you finish a long rest.</p>
+						<p><b>Minstrel's Tales:</b>After completing a task for your liege lord, you may declare that your deed has passed into song. In any social encounter, improve the starting attitude towards you by one step (see the Attitudes table on page 193).</p>
+						<p><i>For example, if you would normally be considered a Friend by another culture, you are now Favoured in their halls. If you would normally be looked upon Askance, they are at least now Neutral towards you. If your culture is Unknown in these parts, you at least are seen in a Neutral light.</i></p>
+						<p>You may take this mark multiple times; each time it improves attitudes by one step.</p>
+						<p>Of course, if your task insulted or injured another culture, then you gain no benefit from having tales sung of your deeds in those parts.</p>
+						<p>For example, if Thranduil sends one of his Knights to challenge the best archer in Lake-town to a contest of archery, and the Elf-knight wins, then takes this benefit, word of the Elf-knight's prowess with a bow would win her friends in all cultures other than Lake-town.</p>
+						<p><b>Officer:</b>When you take this mark, you gain four Command dice, which are d6s. A Command die is expended when you use it. You regain all of your Command dice when you finish a short or long rest. As a bonus action you can give a Command die to any ally who serves your liege-lord, is within 60 feet and in line of sight. That ally can roll their Command die and add the number rolled to any ability check, attack or damage roll. Only fellow Knights or soldiers of your liege lord can benefit from this ability. You may only give these dice to fellow player-heroes if they have been introduced to your liege and been accepted as allies of your cause.</p>
+						<p><b>Knight's Strike:</b>You may spend Inspiration to strike with added fury, adding 3d6 damage to your attack.</p>
+						<specialization type="string">Knight</specialization>
+					</marksofhonour3>
+					<marksofhonour7>
+						<name type="string">Marks of Honour</name>
 						<level type="number">7</level>
-						<text type="formattedtext"><p>Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.</p><p>In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.</p></text>
-						<specialization type="string">Champion</specialization>
-					</remarkableathlete7>
-					<additionalfightingstyle10>
-						<name type="string">Additional Fighting Style</name>
+						<text type="formattedtext"><p>Also at 3rd level, your faithful service is recognised with a mark of honour. You gain another mark at 7th, 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following marks.</p>
+						<p><b>Reward:</b>Gain a Cultural Heirloom from your liege-lord's culture. You may take this mark multiple times.</p>
+						<p><b>Inspiration:</b>You may draw Inspiration from your Charge. Once you have gained Inspiration from your Charge, you cannot do so again until you finish a long rest.</p>
+						<p><b>Minstrel's Tales:</b>After completing a task for your liege lord, you may declare that your deed has passed into song. In any social encounter, improve the starting attitude towards you by one step (see the Attitudes table on page 193).</p>
+						<p><i>For example, if you would normally be considered a Friend by another culture, you are now Favoured in their halls. If you would normally be looked upon Askance, they are at least now Neutral towards you. If your culture is Unknown in these parts, you at least are seen in a Neutral light.</i></p>
+						<p>You may take this mark multiple times; each time it improves attitudes by one step.</p>
+						<p>Of course, if your task insulted or injured another culture, then you gain no benefit from having tales sung of your deeds in those parts.</p>
+						<p>For example, if Thranduil sends one of his Knights to challenge the best archer in Lake-town to a contest of archery, and the Elf-knight wins, then takes this benefit, word of the Elf-knight's prowess with a bow would win her friends in all cultures other than Lake-town.</p>
+						<p><b>Officer:</b>When you take this mark, you gain four Command dice, which are d6s. A Command die is expended when you use it. You regain all of your Command dice when you finish a short or long rest. As a bonus action you can give a Command die to any ally who serves your liege-lord, is within 60 feet and in line of sight. That ally can roll their Command die and add the number rolled to any ability check, attack or damage roll. Only fellow Knights or soldiers of your liege lord can benefit from this ability. You may only give these dice to fellow player-heroes if they have been introduced to your liege and been accepted as allies of your cause.</p>
+						<p><b>Knight's Strike:</b>You may spend Inspiration to strike with added fury, adding 3d6 damage to your attack.</p>
+						<specialization type="string">Knight</specialization>
+					</marksofhonour7>
+					<marksofhonour10>
+						<name type="string">Marks of Honour</name>
 						<level type="number">10</level>
-						<text type="formattedtext"><p>At 10th level, you can choose a second option from the Fighting Style class feature.</p></text>
-						<specialization type="string">Champion</specialization>
-					</additionalfightingstyle10>
-					<superiorcritical15>
-						<name type="string">Superior Critical</name>
+						<text type="formattedtext"><p>Also at 3rd level, your faithful service is recognised with a mark of honour. You gain another mark at 7th, 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following marks.</p>
+						<p><b>Reward:</b>Gain a Cultural Heirloom from your liege-lord's culture. You may take this mark multiple times.</p>
+						<p><b>Inspiration:</b>You may draw Inspiration from your Charge. Once you have gained Inspiration from your Charge, you cannot do so again until you finish a long rest.</p>
+						<p><b>Minstrel's Tales:</b>After completing a task for your liege lord, you may declare that your deed has passed into song. In any social encounter, improve the starting attitude towards you by one step (see the Attitudes table on page 193).</p>
+						<p><i>For example, if you would normally be considered a Friend by another culture, you are now Favoured in their halls. If you would normally be looked upon Askance, they are at least now Neutral towards you. If your culture is Unknown in these parts, you at least are seen in a Neutral light.</i></p>
+						<p>You may take this mark multiple times; each time it improves attitudes by one step.</p>
+						<p>Of course, if your task insulted or injured another culture, then you gain no benefit from having tales sung of your deeds in those parts.</p>
+						<p>For example, if Thranduil sends one of his Knights to challenge the best archer in Lake-town to a contest of archery, and the Elf-knight wins, then takes this benefit, word of the Elf-knight's prowess with a bow would win her friends in all cultures other than Lake-town.</p>
+						<p><b>Officer:</b>When you take this mark, you gain four Command dice, which are d6s. A Command die is expended when you use it. You regain all of your Command dice when you finish a short or long rest. As a bonus action you can give a Command die to any ally who serves your liege-lord, is within 60 feet and in line of sight. That ally can roll their Command die and add the number rolled to any ability check, attack or damage roll. Only fellow Knights or soldiers of your liege lord can benefit from this ability. You may only give these dice to fellow player-heroes if they have been introduced to your liege and been accepted as allies of your cause.</p>
+						<p><b>Knight's Strike:</b>You may spend Inspiration to strike with added fury, adding 3d6 damage to your attack.</p>
+						<specialization type="string">Knight</specialization>
+					</marksofhonour10>
+					<marksofhonour15>
+						<name type="string">Marks of Honour</name>
 						<level type="number">15</level>
-						<text type="formattedtext"><p>Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.</p></text>
-						<specialization type="string">Champion</specialization>
-					</superiorcritical15>
-					<survivor18>
-						<name type="string">Survivor</name>
+						<text type="formattedtext"><p>Also at 3rd level, your faithful service is recognised with a mark of honour. You gain another mark at 7th, 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following marks.</p>
+						<p><b>Reward:</b>Gain a Cultural Heirloom from your liege-lord's culture. You may take this mark multiple times.</p>
+						<p><b>Inspiration:</b>You may draw Inspiration from your Charge. Once you have gained Inspiration from your Charge, you cannot do so again until you finish a long rest.</p>
+						<p><b>Minstrel's Tales:</b>After completing a task for your liege lord, you may declare that your deed has passed into song. In any social encounter, improve the starting attitude towards you by one step (see the Attitudes table on page 193).</p>
+						<p><i>For example, if you would normally be considered a Friend by another culture, you are now Favoured in their halls. If you would normally be looked upon Askance, they are at least now Neutral towards you. If your culture is Unknown in these parts, you at least are seen in a Neutral light.</i></p>
+						<p>You may take this mark multiple times; each time it improves attitudes by one step.</p>
+						<p>Of course, if your task insulted or injured another culture, then you gain no benefit from having tales sung of your deeds in those parts.</p>
+						<p>For example, if Thranduil sends one of his Knights to challenge the best archer in Lake-town to a contest of archery, and the Elf-knight wins, then takes this benefit, word of the Elf-knight's prowess with a bow would win her friends in all cultures other than Lake-town.</p>
+						<p><b>Officer:</b>When you take this mark, you gain four Command dice, which are d6s. A Command die is expended when you use it. You regain all of your Command dice when you finish a short or long rest. As a bonus action you can give a Command die to any ally who serves your liege-lord, is within 60 feet and in line of sight. That ally can roll their Command die and add the number rolled to any ability check, attack or damage roll. Only fellow Knights or soldiers of your liege lord can benefit from this ability. You may only give these dice to fellow player-heroes if they have been introduced to your liege and been accepted as allies of your cause.</p>
+						<p><b>Knight's Strike:</b>You may spend Inspiration to strike with added fury, adding 3d6 damage to your attack.</p>
+						<specialization type="string">Knight</specialization>
+					</marksofhonour15>
+					<marksofhonour18>
+						<name type="string">Marks of Honour</name>
 						<level type="number">18</level>
-						<text type="formattedtext"><p>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.</p></text>
-						<specialization type="string">Champion</specialization>
-					</survivor18>
+						<text type="formattedtext"><p>Also at 3rd level, your faithful service is recognised with a mark of honour. You gain another mark at 7th, 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following marks.</p>
+						<p><b>Reward:</b>Gain a Cultural Heirloom from your liege-lord's culture. You may take this mark multiple times.</p>
+						<p><b>Inspiration:</b>You may draw Inspiration from your Charge. Once you have gained Inspiration from your Charge, you cannot do so again until you finish a long rest.</p>
+						<p><b>Minstrel's Tales:</b>After completing a task for your liege lord, you may declare that your deed has passed into song. In any social encounter, improve the starting attitude towards you by one step (see the Attitudes table on page 193).</p>
+						<p><i>For example, if you would normally be considered a Friend by another culture, you are now Favoured in their halls. If you would normally be looked upon Askance, they are at least now Neutral towards you. If your culture is Unknown in these parts, you at least are seen in a Neutral light.</i></p>
+						<p>You may take this mark multiple times; each time it improves attitudes by one step.</p>
+						<p>Of course, if your task insulted or injured another culture, then you gain no benefit from having tales sung of your deeds in those parts.</p>
+						<p>For example, if Thranduil sends one of his Knights to challenge the best archer in Lake-town to a contest of archery, and the Elf-knight wins, then takes this benefit, word of the Elf-knight's prowess with a bow would win her friends in all cultures other than Lake-town.</p>
+						<p><b>Officer:</b>When you take this mark, you gain four Command dice, which are d6s. A Command die is expended when you use it. You regain all of your Command dice when you finish a short or long rest. As a bonus action you can give a Command die to any ally who serves your liege-lord, is within 60 feet and in line of sight. That ally can roll their Command die and add the number rolled to any ability check, attack or damage roll. Only fellow Knights or soldiers of your liege lord can benefit from this ability. You may only give these dice to fellow player-heroes if they have been introduced to your liege and been accepted as allies of your cause.</p>
+						<p><b>Knight's Strike:</b>You may spend Inspiration to strike with added fury, adding 3d6 damage to your attack.</p>
+						<specialization type="string">Knight</specialization>
+					</marksofhonour18>
+					<famedprotector15>
+						<name type="string">Famed Protector</name>
+						<level type="number">15</level>
+						<text type="formattedtext"><p>At 15th level, so long as you are within 30 feet of your Charge, you are immune to the Charmed, Frightened and Stunned conditions. Furthermore, you cannot become unconscious or incapacitated unless you have failed three death saves (at which point you die).</p></text>
+						<specialization type="string">Knight</specialization>
+					</famedprotector15>
+					<sacrifice18>
+						<name type="string">Sacrifice</name>
+						<level type="number">18</level>
+						<text type="formattedtext"><p>At 18th level, any time your Charge takes hit point damage or suffers a condition, if you are within 30 feet of your charge you may throw yourself in harm's way, suffering the damage or condition instead. If the source of damage or condition grants a saving throw, you are assumed to have failed it; however, if it is an ongoing condition that grants saving throws, you may attempt them as normal beginning on the round after you used this feature</p></text>
+						<specialization type="string">Knight</specialization>
+					</sacrifice18>
 				</features>
 				<multiclassfeatures />
 				<abilities>
-					<champion>
-						<name type="string">Champion</name>
+					<knight>
+						<name type="string">Knight</name>
+						<level type="number">1</level>
+						<text type="formattedtext"><p>Sworn to serve and defend a liege lord, the Knight places their body between those who would do violence and their charge. Steadfast and resolute, a Knight must always be alert for danger and ready to intercept it.</p>
+						<h>Features</h>
+						<listlink>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.marksofhonour3@AiME 5e Player's Guide">Marks of Honour</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.marksofhonour7@AiME 5e Player's Guide">Marks of Honour</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.marksofhonour10@AiME 5e Player's Guide">Marks of Honour</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.marksofhonour15@AiME 5e Player's Guide">Marks of Honour</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.marksofhonour18@AiME 5e Player's Guide">Marks of Honour</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.famedprotector15@AiME 5e Player's Guide">Famed Protector</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.sacrifice18@AiME 5e Player's Guide">Sacrifice</link>
+						</listlink></text>
+					</knight>
+					<weaponmaster>
+						<name type="string">Weapon Master</name>
 						<level type="number">1</level>
 						<text type="formattedtext"><p>The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.</p><h>Features</h><listlink><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.improvedcritical3@AiME 5e Player's Guide">Improved Critical</link><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.remarkableathlete7@AiME 5e Player's Guide">Remarkable Athlete</link><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.additionalfightingstyle10@AiME 5e Player's Guide">Additional Fighting Style</link><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.superiorcritical15@AiME 5e Player's Guide">Superior Critical</link><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.survivor18@AiME 5e Player's Guide">Survivor</link></listlink></text>
-					</champion>
+					</weaponmaster>
 				</abilities>
 				<equipment>
 					<standard>
