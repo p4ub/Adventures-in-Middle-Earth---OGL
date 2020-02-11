@@ -2480,15 +2480,123 @@
 						<text type="formattedtext"><p>At 18th level, any time your Charge takes hit point damage or suffers a condition, if you are within 30 feet of your charge you may throw yourself in harm's way, suffering the damage or condition instead. If the source of damage or condition grants a saving throw, you are assumed to have failed it; however, if it is an ongoing condition that grants saving throws, you may attempt them as normal beginning on the round after you used this feature</p></text>
 						<specialization type="string">Knight</specialization>
 					</sacrifice18>
+					<stylefocus3>
+						<name type="string">Style Focus</name>
+						<level type="number">3</level>
+						<text type="formattedtext"><p><b>Archery</b>You may spend your action aiming. If you attack with your bow next turn, you gain a +2 bonus to the attack and do not suffer disadvantage for attacking at long range.</p>
+						<p><b>Defence</b>You ignore disadvantage to Stealth checks due to your armour.</p>
+						<p><b>Duelling</b>When you are wielding a melee weapon in one hand and no other weapons, you may exchange your +2 bonus to damage from Duelling for up to a +2 bonus to attack.</p>
+						<p><b>Great Weapon Fighting</b>You have advantage while wielding a weapon with the Two-handed or Versatile traits if you are fighting against a creature your size or smaller. </p>
+						<p><b>Protection</b>As a bonus action you may attack with your shield, inflicting 1d6 + Strength modifier points of damage on a hit</p>
+						<p><b>Two-Weapon Fighting</b>When wielding two weapons, you may forsake an attack with either one to give the next opponent to attack you disadvantage on their attack roll.</p>
+						</text>
+						<specialization type="string">Weapon Master</specialization>
+					</stylefocus3>	
+					<masteries3>
+						<name type="string">Masteries</name>
+						<level type="number">3</level>
+						<text type="formattedtext"><p>Also at 3rd level, you have mastered a specific weapon. You gain another mastery at 7th , 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following masteries.</p>
+						<p><b>Birthright</b>You have acquired a weapon of fine make and long lineage. Give your weapon a name. When you first acquire this weapon, you gain advantage on any Charisma (Intimidation) or (Persuasion) ability checks while you carry it. At 3rd level, the weapon grants a +1 bonus to all attack and damage rolls. At 7th level the weapon gains one of the following qualities, and gains a further quality at 10th and 15th level.</p>
+						<p><ul><li><b>Balanced:</b> At the start of your turn, you may transfer the weapon's bonus to attack to your AC. This bonus remains until the start of your next turn.</li></ul></p>
+						<p><ul><li><b>Baleful:</b> A baleful weapon inflicts a critical hit on a natural roll of 19 or 20.</li></ul></p>
+						<p><ul><li><b>Bitter:</b> The weapon now grants a +2 bonus to all attack and damage rolls, instead of +1.</li></ul></p>
+						<p><ul><li><b>Enduring:</b> Enduring weapons cannot be broken by mischance or the attacks of enemies.</li></ul></p>
+						<p><ul><li><b>Infamous:</b> Your enemies know the name of your weapon, and it strikes fear into their hearts. Pick a group (Dunlendings, Haradrim, Wainriders, Orcs, Trolls, Spiders, or a similar group); whenever you inflict a critical hit with your weapon, all nearby creatures of the chosen group must make a Wisdom save (at DC 8 + your proficiency bonus + either your Strength or Dexterity modifier, as you see fit) or be Frightened of your weapon for the rest of the battle.</li></ul></p>
+						<p><ul><li><b>Vicious:</b> On a natural roll of a 20, this weapon inflicts +7 damage.</li></ul></p>						
+						<p><b>Force of Will</b>You have truly become one with your weapon; it acts as an extension of your will and you will not be denied. Any damage dealt by this weapon is considered to deal radiant damage, enabling it to bypass resistances and immunities that normally protect against your weapon type.</p>
+						<p><b>Guild Member</b>You have gained membership in an organisation of warriors, such as the Bowman's Guild of Lake-town or the Royal Archers of Dale. That organisation's base becomes a Sanctuary for you and any companions, and the organisation will happily provide support for your endeavours in the form of food, shelter, access to training grounds and lore, and other means short of marching to war (though they might be convinced to do so).</p>
+						<p><b>Lethal</b>You know how to strike and strike hard. Your attacks add your proficiency bonus or your ability modifier; whichever is higher, to their damage.</p><p><i>You must be 10th level or higher to take this Mastery.</i></p>
+						<p><b>Old Enemies</b>Choose a foe, preferably one you personally have fought or your people regularly battle against. You gain that foe's language and have advantage on Charisma (Deception) and (Intimidation), and Wisdom (Insight) ability checks involving them. When you are fighting against your chosen foe, whenever you roll for damage, you can re-roll your weapon's damage dice and use either total.</p>
+						<p><b>Weaponmaster's Challenge</b>Nominate another ally in this battle. As long as the number of enemies you have slain in this encounter remains within 3 of the number of enemies the nominated ally has slain, you both gain a +1 bonus to attacks. After you have used this ability, you cannot use it again until you have finished a long rest. </p>
+						<specialization type="string">Weapon Master</specialization>
+					</masteries3>
+					<masteries7>
+						<name type="string">Masteries</name>
+						<level type="number">7</level>
+						<text type="formattedtext"><p>Also at 3rd level, you have mastered a specific weapon. You gain another mastery at 7th , 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following masteries.</p>
+						<p><b>Birthright</b>You have acquired a weapon of fine make and long lineage. Give your weapon a name. When you first acquire this weapon, you gain advantage on any Charisma (Intimidation) or (Persuasion) ability checks while you carry it. At 3rd level, the weapon grants a +1 bonus to all attack and damage rolls. At 7th level the weapon gains one of the following qualities, and gains a further quality at 10th and 15th level.</p>
+						<p><ul><li><b>Balanced:</b> At the start of your turn, you may transfer the weapon's bonus to attack to your AC. This bonus remains until the start of your next turn.</li></ul></p>
+						<p><ul><li><b>Baleful:</b> A baleful weapon inflicts a critical hit on a natural roll of 19 or 20.</li></ul></p>
+						<p><ul><li><b>Bitter:</b> The weapon now grants a +2 bonus to all attack and damage rolls, instead of +1.</li></ul></p>
+						<p><ul><li><b>Enduring:</b> Enduring weapons cannot be broken by mischance or the attacks of enemies.</li></ul></p>
+						<p><ul><li><b>Infamous:</b> Your enemies know the name of your weapon, and it strikes fear into their hearts. Pick a group (Dunlendings, Haradrim, Wainriders, Orcs, Trolls, Spiders, or a similar group); whenever you inflict a critical hit with your weapon, all nearby creatures of the chosen group must make a Wisdom save (at DC 8 + your proficiency bonus + either your Strength or Dexterity modifier, as you see fit) or be Frightened of your weapon for the rest of the battle.</li></ul></p>
+						<p><ul><li><b>Vicious:</b> On a natural roll of a 20, this weapon inflicts +7 damage.</li></ul></p>						
+						<p><b>Force of Will</b>You have truly become one with your weapon; it acts as an extension of your will and you will not be denied. Any damage dealt by this weapon is considered to deal radiant damage, enabling it to bypass resistances and immunities that normally protect against your weapon type.</p>
+						<p><b>Guild Member</b>You have gained membership in an organisation of warriors, such as the Bowman's Guild of Lake-town or the Royal Archers of Dale. That organisation's base becomes a Sanctuary for you and any companions, and the organisation will happily provide support for your endeavours in the form of food, shelter, access to training grounds and lore, and other means short of marching to war (though they might be convinced to do so).</p>
+						<p><b>Lethal</b>You know how to strike and strike hard. Your attacks add your proficiency bonus or your ability modifier; whichever is higher, to their damage.</p><p><i>You must be 10th level or higher to take this Mastery.</i></p>
+						<p><b>Old Enemies</b>Choose a foe, preferably one you personally have fought or your people regularly battle against. You gain that foe's language and have advantage on Charisma (Deception) and (Intimidation), and Wisdom (Insight) ability checks involving them. When you are fighting against your chosen foe, whenever you roll for damage, you can re-roll your weapon's damage dice and use either total.</p>
+						<p><b>Weaponmaster's Challenge</b>Nominate another ally in this battle. As long as the number of enemies you have slain in this encounter remains within 3 of the number of enemies the nominated ally has slain, you both gain a +1 bonus to attacks. After you have used this ability, you cannot use it again until you have finished a long rest. </p>
+						<specialization type="string">Weapon Master</specialization>
+					</masteries7>
+					<masteries10>
+						<name type="string">Masteries</name>
+						<level type="number">10</level>
+						<text type="formattedtext"><p>Also at 3rd level, you have mastered a specific weapon. You gain another mastery at 7th , 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following masteries.</p>
+						<p><b>Birthright</b>You have acquired a weapon of fine make and long lineage. Give your weapon a name. When you first acquire this weapon, you gain advantage on any Charisma (Intimidation) or (Persuasion) ability checks while you carry it. At 3rd level, the weapon grants a +1 bonus to all attack and damage rolls. At 7th level the weapon gains one of the following qualities, and gains a further quality at 10th and 15th level.</p>
+						<p><ul><li><b>Balanced:</b> At the start of your turn, you may transfer the weapon's bonus to attack to your AC. This bonus remains until the start of your next turn.</li></ul></p>
+						<p><ul><li><b>Baleful:</b> A baleful weapon inflicts a critical hit on a natural roll of 19 or 20.</li></ul></p>
+						<p><ul><li><b>Bitter:</b> The weapon now grants a +2 bonus to all attack and damage rolls, instead of +1.</li></ul></p>
+						<p><ul><li><b>Enduring:</b> Enduring weapons cannot be broken by mischance or the attacks of enemies.</li></ul></p>
+						<p><ul><li><b>Infamous:</b> Your enemies know the name of your weapon, and it strikes fear into their hearts. Pick a group (Dunlendings, Haradrim, Wainriders, Orcs, Trolls, Spiders, or a similar group); whenever you inflict a critical hit with your weapon, all nearby creatures of the chosen group must make a Wisdom save (at DC 8 + your proficiency bonus + either your Strength or Dexterity modifier, as you see fit) or be Frightened of your weapon for the rest of the battle.</li></ul></p>
+						<p><ul><li><b>Vicious:</b> On a natural roll of a 20, this weapon inflicts +7 damage.</li></ul></p>						
+						<p><b>Force of Will</b>You have truly become one with your weapon; it acts as an extension of your will and you will not be denied. Any damage dealt by this weapon is considered to deal radiant damage, enabling it to bypass resistances and immunities that normally protect against your weapon type.</p>
+						<p><b>Guild Member</b>You have gained membership in an organisation of warriors, such as the Bowman's Guild of Lake-town or the Royal Archers of Dale. That organisation's base becomes a Sanctuary for you and any companions, and the organisation will happily provide support for your endeavours in the form of food, shelter, access to training grounds and lore, and other means short of marching to war (though they might be convinced to do so).</p>
+						<p><b>Lethal</b>You know how to strike and strike hard. Your attacks add your proficiency bonus or your ability modifier; whichever is higher, to their damage.</p><p><i>You must be 10th level or higher to take this Mastery.</i></p>
+						<p><b>Old Enemies</b>Choose a foe, preferably one you personally have fought or your people regularly battle against. You gain that foe's language and have advantage on Charisma (Deception) and (Intimidation), and Wisdom (Insight) ability checks involving them. When you are fighting against your chosen foe, whenever you roll for damage, you can re-roll your weapon's damage dice and use either total.</p>
+						<p><b>Weaponmaster's Challenge</b>Nominate another ally in this battle. As long as the number of enemies you have slain in this encounter remains within 3 of the number of enemies the nominated ally has slain, you both gain a +1 bonus to attacks. After you have used this ability, you cannot use it again until you have finished a long rest. </p>
+						<specialization type="string">Weapon Master</specialization>
+					</masteries10>
+					<masteries15>
+						<name type="string">Masteries</name>
+						<level type="number">15</level>
+						<text type="formattedtext"><p>Also at 3rd level, you have mastered a specific weapon. You gain another mastery at 7th , 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following masteries.</p>
+						<p><b>Birthright</b>You have acquired a weapon of fine make and long lineage. Give your weapon a name. When you first acquire this weapon, you gain advantage on any Charisma (Intimidation) or (Persuasion) ability checks while you carry it. At 3rd level, the weapon grants a +1 bonus to all attack and damage rolls. At 7th level the weapon gains one of the following qualities, and gains a further quality at 10th and 15th level.</p>
+						<p><ul><li><b>Balanced:</b> At the start of your turn, you may transfer the weapon's bonus to attack to your AC. This bonus remains until the start of your next turn.</li></ul></p>
+						<p><ul><li><b>Baleful:</b> A baleful weapon inflicts a critical hit on a natural roll of 19 or 20.</li></ul></p>
+						<p><ul><li><b>Bitter:</b> The weapon now grants a +2 bonus to all attack and damage rolls, instead of +1.</li></ul></p>
+						<p><ul><li><b>Enduring:</b> Enduring weapons cannot be broken by mischance or the attacks of enemies.</li></ul></p>
+						<p><ul><li><b>Infamous:</b> Your enemies know the name of your weapon, and it strikes fear into their hearts. Pick a group (Dunlendings, Haradrim, Wainriders, Orcs, Trolls, Spiders, or a similar group); whenever you inflict a critical hit with your weapon, all nearby creatures of the chosen group must make a Wisdom save (at DC 8 + your proficiency bonus + either your Strength or Dexterity modifier, as you see fit) or be Frightened of your weapon for the rest of the battle.</li></ul></p>
+						<p><ul><li><b>Vicious:</b> On a natural roll of a 20, this weapon inflicts +7 damage.</li></ul></p>						
+						<p><b>Force of Will</b>You have truly become one with your weapon; it acts as an extension of your will and you will not be denied. Any damage dealt by this weapon is considered to deal radiant damage, enabling it to bypass resistances and immunities that normally protect against your weapon type.</p>
+						<p><b>Guild Member</b>You have gained membership in an organisation of warriors, such as the Bowman's Guild of Lake-town or the Royal Archers of Dale. That organisation's base becomes a Sanctuary for you and any companions, and the organisation will happily provide support for your endeavours in the form of food, shelter, access to training grounds and lore, and other means short of marching to war (though they might be convinced to do so).</p>
+						<p><b>Lethal</b>You know how to strike and strike hard. Your attacks add your proficiency bonus or your ability modifier; whichever is higher, to their damage.</p><p><i>You must be 10th level or higher to take this Mastery.</i></p>
+						<p><b>Old Enemies</b>Choose a foe, preferably one you personally have fought or your people regularly battle against. You gain that foe's language and have advantage on Charisma (Deception) and (Intimidation), and Wisdom (Insight) ability checks involving them. When you are fighting against your chosen foe, whenever you roll for damage, you can re-roll your weapon's damage dice and use either total.</p>
+						<p><b>Weaponmaster's Challenge</b>Nominate another ally in this battle. As long as the number of enemies you have slain in this encounter remains within 3 of the number of enemies the nominated ally has slain, you both gain a +1 bonus to attacks. After you have used this ability, you cannot use it again until you have finished a long rest. </p>
+						<specialization type="string">Weapon Master</specialization>
+					</masteries15>
+					<masteries18>
+						<name type="string">Masteries</name>
+						<level type="number">18</level>
+						<text type="formattedtext"><p>Also at 3rd level, you have mastered a specific weapon. You gain another mastery at 7th , 10th, 15th and 18th levels.</p></text>
+						<p>Choose from the following masteries.</p>
+						<p><b>Birthright</b>You have acquired a weapon of fine make and long lineage. Give your weapon a name. When you first acquire this weapon, you gain advantage on any Charisma (Intimidation) or (Persuasion) ability checks while you carry it. At 3rd level, the weapon grants a +1 bonus to all attack and damage rolls. At 7th level the weapon gains one of the following qualities, and gains a further quality at 10th and 15th level.</p>
+						<p><ul><li><b>Balanced:</b> At the start of your turn, you may transfer the weapon's bonus to attack to your AC. This bonus remains until the start of your next turn.</li></ul></p>
+						<p><ul><li><b>Baleful:</b> A baleful weapon inflicts a critical hit on a natural roll of 19 or 20.</li></ul></p>
+						<p><ul><li><b>Bitter:</b> The weapon now grants a +2 bonus to all attack and damage rolls, instead of +1.</li></ul></p>
+						<p><ul><li><b>Enduring:</b> Enduring weapons cannot be broken by mischance or the attacks of enemies.</li></ul></p>
+						<p><ul><li><b>Infamous:</b> Your enemies know the name of your weapon, and it strikes fear into their hearts. Pick a group (Dunlendings, Haradrim, Wainriders, Orcs, Trolls, Spiders, or a similar group); whenever you inflict a critical hit with your weapon, all nearby creatures of the chosen group must make a Wisdom save (at DC 8 + your proficiency bonus + either your Strength or Dexterity modifier, as you see fit) or be Frightened of your weapon for the rest of the battle.</li></ul></p>
+						<p><ul><li><b>Vicious:</b> On a natural roll of a 20, this weapon inflicts +7 damage.</li></ul></p>						
+						<p><b>Force of Will</b>You have truly become one with your weapon; it acts as an extension of your will and you will not be denied. Any damage dealt by this weapon is considered to deal radiant damage, enabling it to bypass resistances and immunities that normally protect against your weapon type.</p>
+						<p><b>Guild Member</b>You have gained membership in an organisation of warriors, such as the Bowman's Guild of Lake-town or the Royal Archers of Dale. That organisation's base becomes a Sanctuary for you and any companions, and the organisation will happily provide support for your endeavours in the form of food, shelter, access to training grounds and lore, and other means short of marching to war (though they might be convinced to do so).</p>
+						<p><b>Lethal</b>You know how to strike and strike hard. Your attacks add your proficiency bonus or your ability modifier; whichever is higher, to their damage.</p><p><i>You must be 10th level or higher to take this Mastery.</i></p>
+						<p><b>Old Enemies</b>Choose a foe, preferably one you personally have fought or your people regularly battle against. You gain that foe's language and have advantage on Charisma (Deception) and (Intimidation), and Wisdom (Insight) ability checks involving them. When you are fighting against your chosen foe, whenever you roll for damage, you can re-roll your weapon's damage dice and use either total.</p>
+						<p><b>Weaponmaster's Challenge</b>Nominate another ally in this battle. As long as the number of enemies you have slain in this encounter remains within 3 of the number of enemies the nominated ally has slain, you both gain a +1 bonus to attacks. After you have used this ability, you cannot use it again until you have finished a long rest. </p>
+						<specialization type="string">Weapon Master</specialization>
+					</masteries18>					
 				</features>
 				<multiclassfeatures />
 				<abilities>
 					<knight>
 						<name type="string">Knight</name>
-						<level type="number">1</level>
+						<level type="number">3</level>
 						<text type="formattedtext"><p>Sworn to serve and defend a liege lord, the Knight places their body between those who would do violence and their charge. Steadfast and resolute, a Knight must always be alert for danger and ready to intercept it.</p>
 						<h>Features</h>
 						<listlink>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.sworndefender3@AiME 5e Player's Guide">Sworn Defender</link>
 						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.marksofhonour3@AiME 5e Player's Guide">Marks of Honour</link>
 						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.marksofhonour7@AiME 5e Player's Guide">Marks of Honour</link>
 						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.marksofhonour10@AiME 5e Player's Guide">Marks of Honour</link>
@@ -2500,8 +2608,17 @@
 					</knight>
 					<weaponmaster>
 						<name type="string">Weapon Master</name>
-						<level type="number">1</level>
-						<text type="formattedtext"><p>The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.</p><h>Features</h><listlink><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.improvedcritical3@AiME 5e Player's Guide">Improved Critical</link><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.remarkableathlete7@AiME 5e Player's Guide">Remarkable Athlete</link><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.additionalfightingstyle10@AiME 5e Player's Guide">Additional Fighting Style</link><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.superiorcritical15@AiME 5e Player's Guide">Superior Critical</link><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.survivor18@AiME 5e Player's Guide">Survivor</link></listlink></text>
+						<level type="number">3</level>
+						<text type="formattedtext"><p>Seeking mastery over themselves as opposed to others, the Weaponmaster specialises in a style of fighting, sometimes even a specific weapon, to a degree other warriors can only dream of.</p>
+						<h>Features</h>
+						<listlink>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.stylefocus3@AiME 5e Player's Guide">Style Focus</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.masteries3@AiME 5e Player's Guide">Masteries</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.masteries7@AiME 5e Player's Guide">Masteries</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.masteries10@AiME 5e Player's Guide">Masteries</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.masteries15@AiME 5e Player's Guide">Masteries</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.masteries18@AiME 5e Player's Guide">Masteries</link>
+						</listlink></text>
 					</weaponmaster>
 				</abilities>
 				<equipment>

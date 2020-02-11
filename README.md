@@ -16,3 +16,5 @@ This is a fork of Collumbus https://github.com/Collumbus/Adventures-in-Middle-Ea
 20200209  - Added Warrior class features
 
 20200210  - Added Knight Archetype to Warrior class
+
+20200211  - Added Weapon Master Archetype to Warrior class
