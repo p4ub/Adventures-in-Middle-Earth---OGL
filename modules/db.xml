@@ -2240,7 +2240,14 @@
 				<li><b>Prosperous:</b>Ring mail, a martial weapon, a shield, a short bow or a great bow with a quiver of 20 arrows.</li>
 				<li><b>Rich:</b>Heavy mail, a martial weapon, a shield or a great shield, a short bow or a great bow with a quiver of 20 arrows.</li>
 				</list>
-				<h>Shadow Weakness</h><p>Lure of Power</p>
+				<h>Shadow Weakness</h>
+					<listlink><h>Lure of Power</h>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.shadow.shadowweaknesses.lureofpower@AiME 5e Player's Guide">Lure of Power</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.shadow.shadowweaknesses.arrogant@AiME 5e Player's Guide">Arrogant</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.shadow.shadowweaknesses.overconfident@AiME 5e Player's Guide">Overconfident</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.shadow.shadowweaknesses.resentful@AiME 5e Player's Guide">Resentful</link>
+						<link type="windowreference" class="reference_classfeature" recordname="reference.shadow.shadowweaknesses.tyrannical@AiME 5e Player's Guide">Tyrannical</link>						
+					</listlink>
 				<h>Features</h>
 				<listlink><link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.fightingstyle1@AiME 5e Player's Guide">Fighting Style</link>
 				<link type="windowreference" class="reference_classfeature" recordname="reference.classdata.warrior.features.secondwind1@AiME 5e Player's Guide">Second Wind</link>
@@ -13578,65 +13585,80 @@
 							</refpages>
 						</subchapter_5>
 					</subchapters>
-				</chapter_0> 
-				<chapter_9>   
-					<subchapter_3>
-					<name type="string">Shadow Weakness Descriptions</name>
-						<curseofvengeance>
-							<name type="string">Curse of Vengeance</name>
-							<text type="formattedtext">
-								<p>Individuals who live by the sword are ever tempted to draw it, either literally or figuratively, when their will is thwarted or when they deem their honour to have been impugned by an insult.</p>
-								<p>As corruption spreads in the hero's spirit, their behaviour worsens, leading to more extreme violent reactions.</p>
-								<p><h>Brutal</h>A Brutal hero reacts violently to provocations and shows little restraint under most circumstances.</p>
-								<p><h>Cruel</h>A Cruel adventurer doesn't care if their actions cause pain and suffering to others, and is needlessly savage with their enemies.</p>
-								<p><h>Murderous</h>A hero becomes Murderous when they start to consider killing as a perfectly natural way to achieve a goal or simply to make things go their way.</p>
-								<p><h>Spiteful</h>The hero often repays real or imagined wrongs with vicious rudeness. Depending on the provocation, the hero may be simply very impolite, or downright insulting.</p>
-							</text>
-						</curseofvengeance>
-						<dragonsickness>
-							<name type="string">Dragon-sickness</name>
-							<text type="formattedtext">
-								<p>Adventurers who find themselves on the road to seek lost riches run the risk of catching the age-old disease capable of turning a pile of enchanted gold into bitter ashes. As the Shadow tightens its grip on their hearts, the world shrinks around them and their closely guarded possessions.</p>
-								<p><h>Deceitful</h>A Deceitful adventurer feels no shame in misleading others with lies and stratagems, as long as their machinations further their ends and needs.</p>
-								<p><h>Grasping</h>Grasping describes the desire to accumulate gold and precious items above all else, just for the sake of possessing them.</p>
-								<p><h>Mistrustful</h>When your prized possessions start to weigh you down and become a treasure to be guarded, even the good advice of friends appears to mask dubious intentions.</p>
-								<p><h>Thieving</h>A Thieving adventurer has discovered that anything they desire can be theirs - they just have to take it. They earned the right to take all they want when they sacrificed the love of their peers and their own self-respect.</p>
-							</text>
-						</dragonsickness>	
-						<lureofpower>
-							<name type="string">Lure of Power</name>
-							<text type="formattedtext">
-								<p>When a man is given a position of authority, either by rank, lineage or stature, he may end up mistaking his own wishes for those of the people he should be guiding or keeping safe. Power is the quintessential temptation, and provides the Shadow with an easy way to win the hearts of those who desire it.</p>
-								<p><h>Arrogant</h>An Arrogant hero doesn't miss an opportunity to underline their own importance, often belittling their peers and companions.</p>
-								<p><h>Overconfident</h>Overconfidence denotes overweening pride, a sentiment that blinds a hero to their own limits and weaknesses. They will set out to do anything they set their mind upon, regardless of the consequences that might befall others</p>
-								<p><h>Resentful</h>A Resentful adventurer is often bitter and angry with the people they ought to protect, as they feel that they risk their life for individuals that fail to recognise their actions on their behalf.</p>
-								<p><h>Tyrannical</h>A Tyrannical hero escalates their actions and desires to the level of a just cause. Their disregard for the lives of others is so profound that they will go to any length to achieve their ends, regardless of the cost or methods employed to accomplish them. Any dissenting opinion is considered to be utter betrayal.</p>
-							</text>
-						</lureofpower>		
-						<lureofsecrets>
-							<name type="string">Lure of Secrets</name>
-							<text type="formattedtext">
-								<p>Inquisitiveness and curiosity are desirable virtues in an individual, but knowledge can be put to malicious use and learned individuals can look down on others as ignorant fools. Secrets are dangerous, as the very desire of uncovering them may corrupt the heart.</p>
-								<p><h>Haughty</h>A Haughty character doesn't recognise easily the wisdom found in the words and actions of others, and tends to turn aside all advice and offers of help.</p>
-								<p><h>Scornful</h>A Scornful hero treats the propositions of others with disdain, making use of every opportunity to mock them for their presumed inadequacy.</p>
-								<p><h>Scheming</h>A Scheming adventurer keeps their thoughts and intentions to themselves at all times, never giving advice and heeding only their own judgement. They might sometimes agree with the propositions of others, but only to be free to follow their own choices later.</p>
-								<p><h>Treacherous</h>When an adventurer becomes Treacherous they cannot be trusted to keep their word. They are ready to betray their own friends and allies if it would be to their advantage.</p>
-							</text>
-						</lureofsecrets>
-						<wanderingmadness>
-							<name type="string">Lure of Secrets</name>
-							<text type="formattedtext">
-								<p>Wandering without ever really settling down might be the destiny of most adventurers, but it carries the risk of never finding something to live for. The road goes ever on and on, it's true, but whither then?</p>
-								<p><h>Cowardly</h>A Cowardly hero cares only for their own safety under any circumstances, and will go to any length to save themselves when a threat arises.</p>
-								<p><h>Forgetful</h>Forgetful indicates that a hero is often daydreaming and absentminded, and finds it difficult to remember even important things.</p>
-								<p><h>Idle</h>It takes a lot to stir an Idle adventurer into action. He is easily distracted, and must be cajoled to fully participate in endeavours.</p>
-								<p><h>Uncaring</h>An Uncaring adventurer is losing touch with the world outside of themselves. They can't bring themselves to feel compassion and quickly lose interest in matters that do not concern them directly.</p>
-							</text>
-						</wanderingmadness>						
-					</subchapter_3>
-				</chapter_9>
+				</chapter_0>	
 			</chapters>
 		</refmanualindex>
+		<shadow>   
+			<shadowweaknesses>
+			<name type="string">Shadow Weakness Descriptions</name>
+				<curseofvengeance>
+					<name type="string">Curse of Vengeance</name>
+					<text type="formattedtext">
+						<p>Individuals who live by the sword are ever tempted to draw it, either literally or figuratively, when their will is thwarted or when they deem their honour to have been impugned by an insult.</p>
+						<p>As corruption spreads in the hero's spirit, their behaviour worsens, leading to more extreme violent reactions.</p>
+						<p><h>Brutal</h>A Brutal hero reacts violently to provocations and shows little restraint under most circumstances.</p>
+						<p><h>Cruel</h>A Cruel adventurer doesn't care if their actions cause pain and suffering to others, and is needlessly savage with their enemies.</p>
+						<p><h>Murderous</h>A hero becomes Murderous when they start to consider killing as a perfectly natural way to achieve a goal or simply to make things go their way.</p>
+						<p><h>Spiteful</h>The hero often repays real or imagined wrongs with vicious rudeness. Depending on the provocation, the hero may be simply very impolite, or downright insulting.</p>
+					</text>
+				</curseofvengeance>
+				<dragonsickness>
+					<name type="string">Dragon-sickness</name>
+					<text type="formattedtext">
+						<p>Adventurers who find themselves on the road to seek lost riches run the risk of catching the age-old disease capable of turning a pile of enchanted gold into bitter ashes. As the Shadow tightens its grip on their hearts, the world shrinks around them and their closely guarded possessions.</p>
+						<p><h>Deceitful</h>A Deceitful adventurer feels no shame in misleading others with lies and stratagems, as long as their machinations further their ends and needs.</p>
+						<p><h>Grasping</h>Grasping describes the desire to accumulate gold and precious items above all else, just for the sake of possessing them.</p>
+						<p><h>Mistrustful</h>When your prized possessions start to weigh you down and become a treasure to be guarded, even the good advice of friends appears to mask dubious intentions.</p>
+						<p><h>Thieving</h>A Thieving adventurer has discovered that anything they desire can be theirs - they just have to take it. They earned the right to take all they want when they sacrificed the love of their peers and their own self-respect.</p>
+					</text>
+				</dragonsickness>	
+				<lureofpower>
+					<name type="string">Lure of Power</name>
+					<text type="formattedtext">
+						<p>When a man is given a position of authority, either by rank, lineage or stature, he may end up mistaking his own wishes for those of the people he should be guiding or keeping safe. Power is the quintessential temptation, and provides the Shadow with an easy way to win the hearts of those who desire it.</p>
+					</text>
+						<arrogant>
+							<name type="string">Arrogant</name>
+							<text type="formattedtext"><p>An Arrogant hero doesn't miss an opportunity to underline their own importance, often belittling their peers and companions.</p></text>
+						</arrogant>
+						<overconfident>
+							<name type="string">Overconfident</name>
+							<text type="formattedtext"><p>Overconfidence denotes overweening pride, a sentiment that blinds a hero to their own limits and weaknesses. They will set out to do anything they set their mind upon, regardless of the consequences that might befall others</p>
+							</text>
+						</overconfident>
+						<resentful>
+							<name type="string">Resentful</name>
+							<text type="formattedtext"><p>A Resentful adventurer is often bitter and angry with the people they ought to protect, as they feel that they risk their life for individuals that fail to recognise their actions on their behalf.</p>
+							</text>
+						</resentful>
+						<tyrannical>
+							<name type="string">Tyrannical</name>
+							<text type="formattedtext"><p>Tyrannical hero escalates their actions and desires to the level of a just cause. Their disregard for the lives of others is so profound that they will go to any length to achieve their ends, regardless of the cost or methods employed to accomplish them. Any dissenting opinion is considered to be utter betrayal.</p>
+							</text>
+						</tyrannical>
+				</lureofpower>		
+				<lureofsecrets>
+					<name type="string">Lure of Secrets</name>
+					<text type="formattedtext">
+						<p>Inquisitiveness and curiosity are desirable virtues in an individual, but knowledge can be put to malicious use and learned individuals can look down on others as ignorant fools. Secrets are dangerous, as the very desire of uncovering them may corrupt the heart.</p>
+						<p><h>Haughty</h>A Haughty character doesn't recognise easily the wisdom found in the words and actions of others, and tends to turn aside all advice and offers of help.</p>
+						<p><h>Scornful</h>A Scornful hero treats the propositions of others with disdain, making use of every opportunity to mock them for their presumed inadequacy.</p>
+						<p><h>Scheming</h>A Scheming adventurer keeps their thoughts and intentions to themselves at all times, never giving advice and heeding only their own judgement. They might sometimes agree with the propositions of others, but only to be free to follow their own choices later.</p>
+						<p><h>Treacherous</h>When an adventurer becomes Treacherous they cannot be trusted to keep their word. They are ready to betray their own friends and allies if it would be to their advantage.</p>
+					</text>
+				</lureofsecrets>
+				<wanderingmadness>
+					<name type="string">Lure of Secrets</name>
+					<text type="formattedtext">
+						<p>Wandering without ever really settling down might be the destiny of most adventurers, but it carries the risk of never finding something to live for. The road goes ever on and on, it's true, but whither then?</p>
+						<p><h>Cowardly</h>A Cowardly hero cares only for their own safety under any circumstances, and will go to any length to save themselves when a threat arises.</p>
+						<p><h>Forgetful</h>Forgetful indicates that a hero is often daydreaming and absentminded, and finds it difficult to remember even important things.</p>
+						<p><h>Idle</h>It takes a lot to stir an Idle adventurer into action. He is easily distracted, and must be cajoled to fully participate in endeavours.</p>
+						<p><h>Uncaring</h>An Uncaring adventurer is losing touch with the world outside of themselves. They can't bring themselves to feel compassion and quickly lose interest in matters that do not concern them directly.</p>
+					</text>
+				</wanderingmadness>						
+			</shadowweaknesses>
+		</shadow>		
 		<skilldata>
 			<athletics>
 				<name type="string">Athletics</name>
