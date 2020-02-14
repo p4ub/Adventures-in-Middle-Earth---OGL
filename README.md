@@ -22,3 +22,5 @@ This is a fork of Collumbus https://github.com/Collumbus/Adventures-in-Middle-Ea
 20200211  - Added Weapon Master Archetype to Warrior class
 
 20200212  - Added Shadow Weakness definitions 
+
+20200214  - Removed spells and reference sections. Added reference to shadow weaknesses
